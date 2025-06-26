@@ -1,6 +1,6 @@
 import serial as ser
 
-handle = ser.Serial("/dev/ttyACM0")
+handle = ser.Serial("/dev/ttyACM1")
 
 line = ""
 
